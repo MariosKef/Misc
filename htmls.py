@@ -3,7 +3,7 @@
 """
 Created on Fri Nov  3 12:58:11 2017
 
-@author: sherlok (Marios Kefalas)
+@author: (Marios Kefalas)
 
 This script takes as input a path to an 
 html document and returns its body as a

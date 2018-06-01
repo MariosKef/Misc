@@ -3,7 +3,7 @@
 """
 Created on Tue Nov 14 14:22:34 2017
 
-@author: sherlok (Marios Kefalas)
+@author: (Marios Kefalas)
 
 This script goes through a directory with
 html files and retains the body of the htmls
